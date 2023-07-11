@@ -11,7 +11,7 @@ export default function Hero() {
         <p className='mt-8 text-lg font-normal leading-6'>
           Here you can track the ongoing progress regarding the $FOP token.
           This dashboard provides real time updates on the TVB, Circulating
-          Supply, Percentage Burnt & Current Marketcap of the Free The Poor Token
+          Supply, Percentage Burnt & Current Marketcap of the Free The Poor Token.
         </p>
       </div>
       <Image
@@ -19,6 +19,7 @@ export default function Hero() {
         alt='rocket'
         height={330}
         width={330}
+        border-radius={25}
         className='absolute inset-0 ml-auto duration-1000 ease-linear -z-10 fly max-md:brightness-40 max-md:mix-blend-lighten'
       />
     </section>

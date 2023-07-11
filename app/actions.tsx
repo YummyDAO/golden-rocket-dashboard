@@ -1,7 +1,7 @@
 export default function Actions() {
   return (
     <section className='flex justify-end gap-6 pb-10 max-sm:text-xs whitespace-nowrap '>
-      <a className='lg:py-3 py-2.5 font-semibold uppercase rounded-lg px-4 lg:px-9 gradient' href="">
+      <a className='lg:py-3 py-2.5 font-semibold uppercase rounded-lg px-4 lg:px-9 gradient' href="/">
         buy $FreeThePoor
       </a>
       <button className='p-0.5 font-semibold uppercase rounded-lg gradient' disabled={true}>

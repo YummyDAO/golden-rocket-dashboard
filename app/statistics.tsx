@@ -43,26 +43,26 @@ export default function Statistics() {
 const data = [
   {
     title: 'TOTAL VALUE BURNT',
-    amount: '$ 342.954,56',
+    amount: '$ 0',
     trendValue: '+21.01%',
     increasing: true,
     chart: <LineChart color='#63D2A1' />,
   },
   {
     title: 'TOTAL CIRCULATING SUPPLY',
-    amount: '342.954,56',
+    amount: '0',
     trendValue: '+21.01%',
     increasing: false,
     chart: <LineChart color='#FF718B' />,
   },
   {
     title: 'PERCENTAGE BURNT',
-    amount: '69%',
+    amount: '0%',
     chart: <PieChart />,
   },
   {
     title: 'CURRENT MARKET CAP',
-    amount: '$ 342.954,56',
+    amount: '$ 0',
     trendValue: '+21.01%',
     increasing: true,
     chart: <LineChart color='#63D2A1' />,
