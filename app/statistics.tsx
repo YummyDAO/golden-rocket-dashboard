@@ -44,14 +44,14 @@ const data = [
   {
     title: 'TOTAL VALUE BURNT',
     amount: '$ 0',
-    trendValue: '+21.01%',
+    trendValue: '+0%',
     increasing: true,
     chart: <LineChart color='#63D2A1' />,
   },
   {
     title: 'TOTAL CIRCULATING SUPPLY',
     amount: '0',
-    trendValue: '+21.01%',
+    trendValue: '+0%',
     increasing: false,
     chart: <LineChart color='#FF718B' />,
   },
@@ -63,7 +63,7 @@ const data = [
   {
     title: 'CURRENT MARKET CAP',
     amount: '$ 0',
-    trendValue: '+21.01%',
+    trendValue: '+0%',
     increasing: true,
     chart: <LineChart color='#63D2A1' />,
   },
